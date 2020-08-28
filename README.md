@@ -4,7 +4,7 @@
 
 - 📚 Studying C# Programming Language;
 - 📈 Aiming to get better in using Unity Engine;
-- 🧶 I also kinda like to knit and crochet 😬
+- 🧶 I also kinda like to knit and crochet. 😬
 
 ## Language and Tools:
 

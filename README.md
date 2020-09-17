@@ -1,13 +1,14 @@
-# *Houdy! Gustavo Vituri here.*
+# **Houdy! Gustavo Vituri here.**
 
 ## 🌱 Biologist by Degree
 ## ✏️ Wannabe Illustrator
 ## 💻 Curious Programmer
 <br><br>
->- Studying C# Programming Language;
->- Aiming to get better in using Unity Engine;
+>- **Just Finished** \[Udemy] C# - Basic to Advanced;
+>- **Currently Learning** \[Udemy] Unity Engine - 2D Games;
+>- **Looking Foward For** \[Udemy] Unity Engine - 3D Games;
 >- Looking foward to start learning Dart Language in Flutter;
->- I also kinda like to knit and crochet.
+>- <small>I also kinda like to knit and crochet.😬<\small>
 
 ## Language and Tools:
 

@@ -3,8 +3,7 @@
 ## 🌱 Biologist by Degree
 ## ✏️ Wannabe Illustrator
 ## 💻 Curious Programmer
-
-
+  
 >- 📚 Studying C# Programming Language;
 >- 📈 Aiming to get better in using Unity Engine;
 >- 🔜 Looking foward to start learning Dart Language in Flutter;

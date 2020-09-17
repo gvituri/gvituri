@@ -1,4 +1,4 @@
-# **Houdy! Gustavo Vituri here.**
+# *Houdy! Gustavo Vituri here.*
 
 ## 🌱 Biologist by Degree
 ## ✏️ Wannabe Illustrator

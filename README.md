@@ -8,7 +8,7 @@
 >- **Currently Learning** \[Udemy] Unity Engine - 2D Games;
 >- **Looking Foward** \[Udemy] Unity Engine - 3D Games;
 >- **Long Time Goal** Make a Living out of Programming;
->- **About Me** <small>I kinda like to knit and crochet.<\small>😬
+>- **Something About Me** I kinda like to knit and crochet. 😬
 
 ## Language and Tools:
 

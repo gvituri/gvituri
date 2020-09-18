@@ -11,6 +11,7 @@
 >- 🧶I also kinda like to knit and crochet😬
 
 <br>
+
 ## Language and Tools:
 
 [<img align="left" alt="C# Programming Language" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" />][CSharpCourse]
@@ -24,6 +25,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 
 <br>
+
 ## Here are some free courses I have already taken, if you are looking to start learning programming:
 
 >- **\[Microsoft]\[C#]** C# First Steps;  

@@ -28,13 +28,17 @@
 
 ## Here are some free courses I have already taken, if you are looking to start learning programming:
 
->- **\[Microsoft]\[C#]** [C# First Steps]([https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/]);  
->- **\[Microsoft]\[C#]** [C# Data](https://docs.microsoft.com/pt-br/learn/paths/csharp-data/);  
->- **\[Microsoft]\[C#]** [C# Logic](https://docs.microsoft.com/pt-br/learn/paths/csharp-logic/);
+>- **\[Microsoft]\[C#]** [C# First Steps]([MicrosoftFirsSteps]);  
+>- **\[Microsoft]\[C#]** [C# Data]([MicrosoftData]);  
+>- **\[Microsoft]\[C#]** [C# Logic]([MicrosoftLogic]);
 >- **\[Brackeys]\[C#]** [C# YouTube Tutorial]([CSharpCourse]);
->- **\[OpenSource]\[Markdown]** [Markdown Quick Tutorial](https://commonmark.org/help/tutorial/);  
+>- **\[OpenSource]\[Markdown]** [Markdown Quick Tutorial]([MarkdownTutorial]);  
 
 [CSharpCourse]: https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR
+[MicrosoftFirsSteps]: https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/
+[MicrosoftData]: https://docs.microsoft.com/pt-br/learn/paths/csharp-data/
+[MicrosoftLogic]: https://docs.microsoft.com/pt-br/learn/paths/csharp-logic/
+[MarkdownTutorial]: https://commonmark.org/help/tutorial/
 [VisualStudio]: https://visualstudio.microsoft.com/pt-br/
 [VisualStudioCode]: https://code.visualstudio.com/
 [Unity]: https://unity.com/

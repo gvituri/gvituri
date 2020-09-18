@@ -7,7 +7,7 @@
 >- **Just Finished** \[Udemy] C# - Basic to Advanced;
 >- **Currently Learning** \[Udemy] Unity Engine - 2D Games;
 >- **Looking Foward** \[Udemy] Unity Engine - 3D Games;
->- **Long Time Goal** Make a Living out of Programming;
+>- **Long Term Goal** Make a Living out of Programming;
 >- 🧶I also kinda like to knit and crochet😬
 
 ## Language and Tools:

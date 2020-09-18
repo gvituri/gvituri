@@ -26,7 +26,7 @@
 
 <br>
 
-## Here are some free courses I have already taken, if you are looking to start learning programming:
+## Here are some free courses I have already taken, if you are looking to start learning:
 
 >- **\[Microsoft]\[C#]** [C# First Steps]([MicrosoftFirsSteps]);  
 >- **\[Microsoft]\[C#]** [C# Data]([MicrosoftData]);  

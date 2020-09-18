@@ -28,11 +28,11 @@
 
 ## Here are some free courses I have already taken, if you are looking to start learning programming:
 
->- **\[Microsoft]\[C#]** C# First Steps;  
->- **\[Microsoft]\[C#]** C# Data;  
->- **\[Microsoft]\[C#]** C# Logic;  
->- **\[Microsoft]\[C#]** C# Logic;  
->- **\[OpenSource]\[Markdown]** Markdown Quick Tutorial;  
+>- **\[Microsoft]\[C#]** [C# First Steps]([https://docs.microsoft.com/pt-br/learn/paths/csharp-first-steps/]);  
+>- **\[Microsoft]\[C#]** [C# Data](https://docs.microsoft.com/pt-br/learn/paths/csharp-data/);  
+>- **\[Microsoft]\[C#]** [C# Logic](https://docs.microsoft.com/pt-br/learn/paths/csharp-logic/);
+>- **\[Brackeys]\[C#]** [C# YouTube Tutorial]([CSharpCourse]);
+>- **\[OpenSource]\[Markdown]** [Markdown Quick Tutorial](https://commonmark.org/help/tutorial/);  
 
 [CSharpCourse]: https://www.youtube.com/watch?v=N775KsWQVkw&list=PLPV2KyIb3jR4CtEelGPsmPzlvP7ISPYzR
 [VisualStudio]: https://visualstudio.microsoft.com/pt-br/

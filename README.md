@@ -6,9 +6,9 @@
 <br><br>
 >- **Just Finished** \[Udemy] C# - Basic to Advanced;
 >- **Currently Learning** \[Udemy] Unity Engine - 2D Games;
->- **Looking Foward For** \[Udemy] Unity Engine - 3D Games;
->- Looking foward to start learning Dart Language in Flutter;
->- <small>I also kinda like to knit and crochet.😬<\small>
+>- **Looking Foward** \[Udemy] Unity Engine - 3D Games;
+>- **Long Time Goal** Make a Living out of Programming;
+>- **About Me** <small>I kinda like to knit and crochet.<\small>😬
 
 ## Language and Tools:
 

@@ -2,7 +2,7 @@
 
 ## 🌱 Biologist by Degree
 ## ✏️ Wannabe Illustrator
-## 💻 Curious Programmer
+## 💻 Enthusiastic Programmer
 
 >- **Just Finished** \[Udemy] C# - Basic to Advanced;
 >- **Currently Learning** \[Udemy] Unity Engine - 2D Games;

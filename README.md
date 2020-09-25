@@ -50,6 +50,6 @@
 [VisualStudioCode]: https://code.visualstudio.com/
 [Unity]: https://unity.com/
 [Github]: https://github.com/
-[Dart]: https://github.com/
-[Flutter]: https://github.com/
-[AndroidStudio]: https://github.com/
+[Dart]: https://dart.dev/
+[Flutter]: https://www.c-sharpcorner.com/learn/learn-flutter
+[AndroidStudio]: https://developer.android.com/studio

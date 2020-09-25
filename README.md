@@ -22,7 +22,7 @@
 
 [<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Visual_Studio_2017_Logo.svg" />][VisualStudio]
 
-[<img align="left" alt="Unity Engine" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSGH9ehzLT6mmPqwjM2HqdoIg1-6TtsU1AB2Q&usqp=CAU" />][Unity]
+[<img align="left" alt="Unity Engine" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/unity-69-logo-black-and-white.png" />][Unity]
 
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
 

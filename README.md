@@ -5,8 +5,8 @@
 ## 💻 Enthusiastic Programmer
 
 >- **Just Finished** \[Udemy] C# - Basic to Advanced;
->- **Currently Learning** \[Udemy] Unity Engine - 2D Games;
->- **Looking Foward** \[Udemy] Unity Engine - 3D Games;
+>- **Currently Learning** \[Udemy] iOS and Android app creation with Flutter;
+>- **Looking Foward** \[Udemy] Unity Engine - 2D Games;
 >- **Long Term Goal** Make a Living out of Programming;
 >- 🧶I also kinda like to knit and crochet😬
 

@@ -3,7 +3,8 @@
 ## :hammer: Profile Under Construction.
 
 ## Courses Taken:
-
+> - [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/cursosgratuitos);
+> - [Fountations of Web Development](https://www.theodinproject.com/paths/foundations/courses/foundations);
 > - [Build Mobile Apps With Xamarin.Forms](https://docs.microsoft.com/en-us/learn/paths/build-mobile-apps-with-xamarin-forms/);
 > - [Work With Data in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-data/);
 > - [Add Logic to Your Applications in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/);

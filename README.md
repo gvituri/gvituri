@@ -11,4 +11,4 @@
 > - [Add Logic to Your Applications in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/);
 > - [Take Your First Steps With C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/).
 
-[![gvituri GitHub stats](https://github-readme-stats.vercel.app/api?username=gvituri&show_icons=true&theme=radical)](https://github.com/gvituri/github-readme-stats&show_icons=true&theme=radical)
+[![gvituri GitHub stats](https://github-readme-stats.vercel.app/api?username=gvituri&show_icons=true&theme=dark)](https://github.com/gvituri/github-readme-stats&show_icons=true&theme=dark)

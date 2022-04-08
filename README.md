@@ -13,4 +13,4 @@
 
 [![gvituri GitHub stats](https://github-readme-stats.vercel.app/api?username=gvituri&show_icons=true&theme=dark)](https://github.com/gvituri/github-readme-stats&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvituri&hide=assembly,pascal,pawn,java&layout=compact&theme=dark)](https://github.com/gvituri/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvituri&hide=assembly,dart,pascal,pawn,java&layout=compact&theme=dark)](https://github.com/gvituri/github-readme-stats)

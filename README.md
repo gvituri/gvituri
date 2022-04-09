@@ -1,4 +1,4 @@
-## Ahoy there!
+# Ahoy there!
 # **I'm Gustavo Vituri**
 
 <p align="center">

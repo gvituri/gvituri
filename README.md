@@ -1,13 +1,6 @@
 ## Ahoy there!
 # **I'm Gustavo Vituri**
 
-About me:
-> - Currently living in SP, Brazil;
-> - Master's in Biological Sciences;
-> - Currently studying programming by my own;
-> - Looking for a career change into Development; 
-> - Love to make art: drawing, crocheting, pixelArt.
-
 <p align="center">
 GET IN TOUCH
 <br>
@@ -15,6 +8,13 @@ GET IN TOUCH
 <a target="_blank" href="https://twitter.com/GustavoVituri"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <a target="_blank" href="mailto:gustavovituri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <br>
+
+About me:
+> - Currently living in SP, Brazil;
+> - Master's in Biological Sciences;
+> - Currently studying programming by my own;
+> - Looking for a career change into Development; 
+> - Love to make art: drawing, crocheting, pixelArt.
 
 <p align="center">
 LOOK AT SOME ART

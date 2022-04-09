@@ -1,5 +1,4 @@
-# Ahoy there!
-# **I'm Gustavo Vituri**
+# Ahoy there! **I'm Gustavo Vituri**
 
 ## About me:
 > - Currently living in SP, Brazil;

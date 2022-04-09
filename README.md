@@ -9,7 +9,7 @@ About me:
 > - Love to make art: drawing, crocheting, pixelArt.
 
 <p align="center">
-<p>GET IN TOUCH:</p>
+GET IN TOUCH
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/gustavo-vituri-017254215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://twitter.com/GustavoVituri"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
@@ -17,7 +17,7 @@ About me:
 <br>
 
 <p align="center">
-###LOOK AT SOME ART:
+LOOK AT SOME ART
 <br>
 <a target="_blank" href="https://gvituri.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></img></a>
 <a target="_blank" href="https://www.behance.net/gustavovituri"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></img></a>

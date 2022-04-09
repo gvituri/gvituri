@@ -1,20 +1,16 @@
 # Ahoy there!
 # **I'm Gustavo Vituri**
 
-<p align="center">
-GET IN TOUCH
-<br>
-<a target="_blank" href="https://www.linkedin.com/in/gustavo-vituri-017254215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/GustavoVituri"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<a target="_blank" href="mailto:gustavovituri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<br>
-
-About me:
+## About me:
 > - Currently living in SP, Brazil;
 > - Master's in Biological Sciences;
 > - Currently studying programming by my own;
 > - Looking for a career change into Development; 
 > - Love to make art: drawing, crocheting, pixelArt.
+
+## Currently Studying:
+> - [Creating .NET applications with C#](https://docs.microsoft.com/pt-br/learn/paths/build-dotnet-applications-csharp/);
+> - [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home);
 
 <p align="center">
 TECH AND TOOLS
@@ -48,6 +44,13 @@ TECH AND TOOLS
 | --- | --- |
 | [![gvituri GitHub stats](https://github-readme-stats.vercel.app/api?username=gvituri&show_icons=true&theme=dark)](https://github.com/gvituri/github-readme-stats&show_icons=true&theme=dark&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvituri&hide=assembly,dart,pascal,pawn,java&layout=compact&theme=dark)](https://github.com/gvituri/github-readme-stats&count_private=true) |
 
+<p align="center">
+GET IN TOUCH
+<br>
+<a target="_blank" href="https://www.linkedin.com/in/gustavo-vituri-017254215/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://twitter.com/GustavoVituri"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<a target="_blank" href="mailto:gustavovituri@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<br>
 <p align="center">
 LOOK AT SOME ART I MADE
 <br>

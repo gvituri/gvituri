@@ -26,10 +26,6 @@ TECH AND TOOLS
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></img>
 <br>
 
-<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-brazil2x.png"></img>
-<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png"></img>
-<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-spain2x.png"></img>
-
 ## Currently Studying:
 > - [Creating .NET applications with C#](https://docs.microsoft.com/pt-br/learn/paths/build-dotnet-applications-csharp/);
 > - [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home);
@@ -62,6 +58,7 @@ LOOK AT SOME ART I MADE
 <br>
 
 ### Languages:
+<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:100px;"/>
 <img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-brazil2x.png"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-spain2x.png"></img>

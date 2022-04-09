@@ -16,12 +16,11 @@ About me:
 > - Looking for a career change into Development; 
 > - Love to make art: drawing, crocheting, pixelArt.
 
-<p align="center">
-LOOK AT SOME ART
-<br>
-<a target="_blank" href="https://gvituri.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></img></a>
-<a target="_blank" href="https://www.behance.net/gustavovituri"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></img></a>
-<br>
+## Tech and Tools
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ## Courses Taken:
 > - [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/cursosgratuitos);
@@ -35,3 +34,10 @@ LOOK AT SOME ART
 | Github Stats | Top Languages |
 | --- | --- |
 | [![gvituri GitHub stats](https://github-readme-stats.vercel.app/api?username=gvituri&show_icons=true&theme=dark)](https://github.com/gvituri/github-readme-stats&show_icons=true&theme=dark&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvituri&hide=assembly,dart,pascal,pawn,java&layout=compact&theme=dark)](https://github.com/gvituri/github-readme-stats&count_private=true) |
+
+<p align="center">
+LOOK AT SOME ART I MADE
+<br>
+<a target="_blank" href="https://gvituri.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></img></a>
+<a target="_blank" href="https://www.behance.net/gustavovituri"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></img></a>
+<br>

@@ -58,13 +58,6 @@ LOOK AT SOME ART I MADE
 <br>
 
 ### Languages:
-
-<a target="_blank" href="https://gvituri.itch.io/"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:50px;"/></a>
-<a target="_blank" href="https://gvituri.itch.io/"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:50px;"/></a>
-<a target="_blank" href="https://gvituri.itch.io/"><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:50px;"/></a>
-
-<br>
-<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg" alt="United States of America Flag" style="width:50px;"/>
-<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/es.svg" alt="Spain Flag" style="width:50px;"/>
-<br>
+<a><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:50px;"/></a>
+<a><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg" alt="United States of America Flag" style="width:50px;"/></a>
+<a><img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/es.svg" alt="Spain Flag" style="width:50px;"/></a>

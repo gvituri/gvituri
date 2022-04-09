@@ -20,6 +20,7 @@
 > - [Add Logic to Your Applications in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/);
 > - [Take Your First Steps With C#](https://docs.microsoft.com/en-us/learn/paths/csharp-first-steps/).
 
+<p align="center">
 | Github Stats | Top Languages |
 | --- | --- |
 | [![gvituri GitHub stats](https://github-readme-stats.vercel.app/api?username=gvituri&show_icons=true&theme=dark)](https://github.com/gvituri/github-readme-stats&show_icons=true&theme=dark&count_private=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvituri&hide=assembly,dart,pascal,pawn,java&layout=compact&theme=dark)](https://github.com/gvituri/github-readme-stats&count_private=true) |

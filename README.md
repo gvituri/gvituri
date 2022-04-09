@@ -1,7 +1,7 @@
 # **Ahoy there!**
 
 ## I'm Gustavo Vituri
-## About me:
+About me:
 
 > - Currently living in SP, Brazil;
 > - Master's in Biological Sciences;

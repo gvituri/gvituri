@@ -58,7 +58,6 @@ LOOK AT SOME ART I MADE
 <br>
 
 ### Languages:
-<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:100px;"/>
-<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-brazil2x.png"></img>
-<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png"></img>
-<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-spain2x.png"></img>
+<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/br.svg" alt="Brazilian Flag" style="width:50px;"/>
+<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/us.svg" alt="United States of America Flag" style="width:50px;"/>
+<img src="https://raw.githubusercontent.com/hampusborgos/country-flags/ba2cf4101bf029d2ada26da2f95121de74581a4d/svg/es.svg" alt="Spain Flag" style="width:50px;"/>

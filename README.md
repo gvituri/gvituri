@@ -26,11 +26,9 @@ TECH AND TOOLS
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></img>
 <br>
 
-Languages:
 <img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-brazil2x.png"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png"></img>
 <img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-spain2x.png"></img>
-<br>
 
 ## Currently Studying:
 > - [Creating .NET applications with C#](https://docs.microsoft.com/pt-br/learn/paths/build-dotnet-applications-csharp/);
@@ -62,3 +60,7 @@ LOOK AT SOME ART I MADE
 <a target="_blank" href="https://gvituri.itch.io/"><img src="https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white"></img></a>
 <a target="_blank" href="https://www.behance.net/gustavovituri"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white"></img></a>
 <br>
+
+<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-brazil2x.png"></img>
+<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-usa2x.png"></img>
+<img src="https://cdn3.iconfinder.com/data/icons/142-mini-country-flags-16x16px/32/flag-spain2x.png"></img>

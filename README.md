@@ -27,7 +27,6 @@ TECH AND TOOLS
 <br>
 
 ## Currently Studying:
-> - [Create Wep Apps and Services with ASP.NET Core, Minimal API and .NET 6](https://docs.microsoft.com/en-us/learn/paths/aspnet-core-minimal-api/);
 > - [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home);
 
 ## Courses Taken:
@@ -35,6 +34,7 @@ TECH AND TOOLS
 > - [Foundations of Web Development](https://www.theodinproject.com/paths/foundations/courses/foundations);
 > - [Build Mobile Apps With Xamarin.Forms](https://docs.microsoft.com/en-us/learn/paths/build-mobile-apps-with-xamarin-forms/);
 > - [C#- Do Básico ao Avançado](https://www.udemy.com/course/curso-c-sharp/);
+> - [Create Wep Apps and Services with ASP.NET Core, Minimal API and .NET 6](https://docs.microsoft.com/en-us/learn/paths/aspnet-core-minimal-api/);
 > - [Creating .NET applications with C#](https://docs.microsoft.com/pt-br/learn/paths/build-dotnet-applications-csharp/);
 > - [Work With Data in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-data/);
 > - [Add Logic to Your Applications in C#](https://docs.microsoft.com/en-us/learn/paths/csharp-logic/);

@@ -28,6 +28,7 @@ TECH AND TOOLS
 
 ## Currently Studying:
 > - [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home);
+> - [DIO. Carrefour Web Development Bootcamp](https://www.dio.me/bootcamp/carrefour-web-developer);
 
 ## Courses Taken:
 > - [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/cursosgratuitos);

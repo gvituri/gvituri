@@ -3,8 +3,7 @@
 ## About me:
 > - Currently living in SP, Brazil;
 > - Master's in Biological Sciences;
-> - Currently studying programming by my own;
-> - Looking for a career change into Development; 
+> - Currently working as a .Net C# Dev;
 > - Love to make art: drawing, crocheting, pixelArt.
 
 <p align="center">
@@ -25,10 +24,6 @@ TECH AND TOOLS
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></img>
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"></img>
 <br>
-
-## Currently Studying:
-> - [CS50's Introduction to Computer Science](https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home);
-> - [DIO. Carrefour Web Development Bootcamp](https://www.dio.me/bootcamp/carrefour-web-developer);
 
 ## Courses Taken:
 > - [Python Fundamentos Para Análise de Dados](https://www.datascienceacademy.com.br/cursosgratuitos);

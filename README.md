@@ -4,7 +4,7 @@
 > - Currently living in SP, Brazil;
 > - Master's in Biological Sciences;
 > - Currently working as a .Net C# Dev;
-> - Love to make art: drawing, crocheting, pixelArt.
+> - Love to make art.
 
 <p align="center">
 TECH AND TOOLS

@@ -1,10 +1,10 @@
 # Hello there! **I'm Gustavo Vituri** 👋
 
 ## About me:
-> - Currently living in SP, Brazil;
-> - Master's in Biological Sciences;
-> - Currently working as a .Net C# Dev;
-> - Love to make art.
+> - Based in SP, Brazil;
+> - Full Stack .Net C# Dev at ArBrain;
+> - Master's in Biological Sciences - UEL;
+> - Graduate in Information Tecnology - UNIVESP.
 
 <p align="center">
 TECH AND TOOLS
